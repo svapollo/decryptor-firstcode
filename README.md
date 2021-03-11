@@ -1,9 +1,9 @@
-# Projeto - Decryptor
+# Projeto - Decryptor 
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/svapollo/decryptor-firstcode/blob/main/LICENSE)
 
 # Sobre o projeto
 
-Desenvolvido em novembro/2020 durante a seleção para bolsistas do RSI (Residência em Segurança da Informação) enquanto eu estava no 1º semestre do curso, aqui foi minha primeira aplicação de programação fora das atividades curriculares com gabarito.
+Desenvolvido em novembro/2020 usando **Python** durante a seleção para bolsistas do RSI (Residência em Segurança da Informação) enquanto eu estava no 1º semestre do curso, aqui foi minha primeira aplicação de programação fora das atividades curriculares com gabarito.
   
   O desafio consistia em **Descriptografar o seguinte arquivo .txt** [Link do Arquivo no Repositório](https://github.com/svapollo/decryptor-firstcode/blob/main/encrypted-text.txt "Link rápido") e encontrar a Flag, referência aos eventos de CTF (Capture the Flag)
 
